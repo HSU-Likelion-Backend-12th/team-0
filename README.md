@@ -5,38 +5,34 @@
 
 #### 1팀 멤버
 
-<table>
+<table width="50%" align="center">
     <tr>
-        <td><center>멘토</center></td>
-        <td><center>멘티</center></td>
-        <td><center>멘티</center></td>
+        <td align="center"><b>멘토</b></td>
+        <td align="center"><b>멘티</b></td>
+        <td align="center"><b>멘티</b></td>
     </tr>
     <tr>
-        <td><center><img src="https://avatars.githubusercontent.com/u/98332877?v=4"></center></td>
-        <td><center><img src="https://avatars.githubusercontent.com/u/102959835?v=4"></center></td>
-        <td><center><img src="https://avatars.githubusercontent.com/u/109474668?v=4"></center></td>
+        <td align="center"><img src="https://avatars.githubusercontent.com/u/98332877?v=4"></td>
+        <td align="center"><img src="https://avatars.githubusercontent.com/u/102959835?v=4"></td>
+        <td align="center"><img src="https://avatars.githubusercontent.com/u/109474668?v=4"></td>
     </tr>
     <tr>
-        <td><center><a href="https://github.com/MinseoKangQ">강민서</a></center></td>
-        <td><center><a href="https://github.com/0hyujin">오유진</a></center></td>
-        <td><center><a href="https://github.com/y2hscmtk">최강</a></center></td>
+        <td align="center"><b><a href="https://github.com/MinseoKangQ">강민서</a></b></td>
+        <td align="center"><b><a href="https://github.com/0hyujin">오유진</a></b></td>
+        <td align="center"><b><a href="https://github.com/y2hscmtk">최강</a></b></td>
     </tr>
 </table>
 
 
 <br><br>
 
-#### Git convention
-
-<br>
-
-##### 📌 Commit
+### 📌 Commit
 
 <br>
 
 **💡 Commit rule**
 - 최소 작업 단위를 기준으로 가능하면 작게 쪼갠다.
-- 1개의 커밋에는 1개의 행위**만 들어 있게 한다.
+- 1개의 커밋에는 1개의 행위만 들어 있게 한다.
 - 이해하기 쉽도록 직관적이게 작성한다.
 
 <br>
@@ -99,7 +95,7 @@
 
 <br><br>
 
-##### 📌 Pull Request
+### 📌 Pull Request
 
 <br>
 
@@ -109,5 +105,5 @@
 - **1개의 PR에는 1개의 작업**만 들어 있게 한다.
 - 코드에는 가능한한 주석을 많이 달도록 한다.
 - **정상적으로 동작하는지 테스트**하고, 정상적인 경우에만 PR 한다.
-- 1개 이상의 approve를 받아야 merger가 가능하다.
+- 1개 이상의 approve를 받아야 merge가 가능하다.
 - approve는 멘토로부터 받는다.
