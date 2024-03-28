@@ -41,6 +41,8 @@
 - 2️⃣의 **Commit Delimitation List** 를 접두사로 한다.
 - 그 후 ~한다는 명령어로 시작하여 한 눈에 어떤 작업을 했는지 알기 쉽게 적는다.
     - 예시) `Feat: 프로젝트 생성`, `Fix: 오류 수정`
+- 커밋을 예쁘게 하고싶다면 gitmoji를 사용해도 좋다.
+  - [참고링크](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-Gitmoji-%EC%82%AC%EC%9A%A9%EB%B2%95-Gitmoji-cli)
 
 <br>
 
